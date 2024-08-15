@@ -1,0 +1,18 @@
+# Pastas de construção e lançamento
+bin-depuração /
+liberação-de-lixeira /
+[ Oo ] bj /
+[ Bb ] em /
+
+# Outros arquivos e pastas
+.configurações /
+
+# Executáveis
+* .swf
+* .ar
+* .ipa
+* .apk
+
+# Arquivos de projeto, ou seja, `.project`, `.actionScriptProperties` e `.flexProperties`
+# NÃO deve ser excluído, pois contém configurações do compilador e outras configurações importantes
+# informações para Eclipse / Flash Builder.
